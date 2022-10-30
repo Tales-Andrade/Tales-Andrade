@@ -6,9 +6,9 @@
 
 ## :space_invader: About me
 - 🎓 I’m currently pursuing a bachelor's degree in Software Engineering at McGill University
-<!-- - 🌱 I’m currently learning web scraping -->
 - 🔭 I’m currently working on a web scraper
 - 🤔 I’m looking for help with participating in an open source project
+<!-- - 🌱 I’m currently learning web scraping -->
 <!-- - 📫 How to reach me:  -->
 <!-- - ⚡ Fun fact: My favorite repository on github is []() -->
 
@@ -18,15 +18,15 @@
 - Computer Graphics
 - Computer Vision
 - Embedded Systems
-
+<!-- 
 ## :space_invader: Projects
-<!-- ### [Name](link)
+### [Name](link)
 Description
 
 <div>
   <img src="" title="" alt="" width="400"/>
-</div> -->
-
+</div>
+ -->
 
 ## :sound: &nbsp;Languages and Frameworks :
 <div>
@@ -55,13 +55,13 @@ Description
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
 
-## :chart_with_upwards_trend: GitHub Analytics : 
+<!-- ## :chart_with_upwards_trend: GitHub Analytics : 
 <p align="center">
 <a href="https://github.com/Tales-Andrade">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tales-Andrade&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tales-Andrade&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
-</p>
+</p> -->
 
 ## :iphone: Contact Information : 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>](https://github.com/Tales-Andrade)
