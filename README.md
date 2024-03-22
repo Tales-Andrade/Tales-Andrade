@@ -1,9 +1,5 @@
 ### Hi there, I am Tales Andrade :smile:
 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="800"/>
-</div>
-
 ## :space_invader: About me
 - 🎓 I’m currently pursuing a bachelor's degree in Software Engineering at McGill University
 - 🔭 I’m currently working on a web scraper
